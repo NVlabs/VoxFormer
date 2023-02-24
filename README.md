@@ -11,11 +11,11 @@
 
 > [Yiming Li](https://scholar.google.com/citations?hl=en&user=i_aajNoAAAAJ&view_op=list_works&sortby=pubdate), [Zhiding Yu](https://scholar.google.com/citations?user=1VI_oYUAAAAJ&hl=en), [Chris Choy](https://scholar.google.com/citations?user=2u8G5ksAAAAJ&hl=en), [Chaowei Xiao](https://scholar.google.com/citations?user=Juoqtj8AAAAJ&hl=en), [Jose M. Alvarez](https://scholar.google.com/citations?user=Oyx-_UIAAAAJ&hl=en), [Sanja Fidler](https://scholar.google.com/citations?user=CUlqK5EAAAAJ&hl=en), [Chen Feng](https://scholar.google.com/citations?user=YeG8ZM0AAAAJ&hl=en), [Anima Anandkumar](https://scholar.google.com/citations?user=bEcLezcAAAAJ&hl=en)
 
->  [[Project]]() [[Arxiv]]() [[Code]]()
+>  [[PDF]](https://arxiv.org/pdf/2302.12251.pdf) 
 
 
 # News
-- [2023/02]: Our paper is on arxiv.
+- [2023/02]: Our paper is on [arxiv](https://arxiv.org/abs/2302.12251).
 - [2022/11]: VoxFormer achieve the SOTA on [SemanticKITTI 3D SSC (Semantic Scene Completion) Task](http://www.semantic-kitti.org/tasks.html#ssc) with **13.35% mIoU** and **44.15% IoU** (camera-only)!
 </br>
 
