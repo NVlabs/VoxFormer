@@ -43,13 +43,11 @@ Humans can easily imagine the complete 3D geometry of occluded objects and scene
 If this work is helpful for your research, please cite the following BibTeX entry.
 
 ```
-@misc{li2023voxformer,
+@InProceedings{li2023voxformer,
       title={VoxFormer: Sparse Voxel Transformer for Camera-based 3D Semantic Scene Completion}, 
       author={Yiming Li and Zhiding Yu and Christopher Choy and Chaowei Xiao and Jose M. Alvarez and Sanja Fidler and Chen Feng and Anima Anandkumar},
-      year={2023},
-      eprint={2302.12251},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV}
+      booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+      year={2023}
 }
 ```
 
