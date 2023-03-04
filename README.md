@@ -45,7 +45,7 @@ If this work is helpful for your research, please cite the following BibTeX entr
 ```
 @InProceedings{li2023voxformer,
       title={VoxFormer: Sparse Voxel Transformer for Camera-based 3D Semantic Scene Completion}, 
-      author={Yiming Li and Zhiding Yu and Christopher Choy and Chaowei Xiao and Jose M. Alvarez and Sanja Fidler and Chen Feng and Anima Anandkumar},
+      author={Li, Yiming and Yu, Zhiding and Choy, Christopher and Xiao, Chaowei and Alvarez, Jose M and Fidler, Sanja and Feng, Chen and Anandkumar, Anima},
       booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
       year={2023}
 }
