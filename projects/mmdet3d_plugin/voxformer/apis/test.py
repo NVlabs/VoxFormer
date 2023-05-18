@@ -147,9 +147,13 @@ def collect_results_cpu(result_part, size, tmpdir=None):
         tmpdir = dir_tensor.cpu().numpy().tobytes().decode().rstrip()
     else:
         mmcv.mkdir_or_exist(tmpdir)
+    
+    for i in range(len(result_part)):
+        result_part[i]['y_pred']=np.array(result_part[i]['y_pred'])
     # dump the part result to the dir
     mmcv.dump(result_part, osp.join(tmpdir, f'part_{rank}.pkl'))
-    dist.barrier()
+                                                                
+    dist.barrier()                                              
     # collect all parts
     if rank != 0:
         return None
@@ -172,7 +176,6 @@ def collect_results_cpu(result_part, size, tmpdir=None):
         # remove tmp dir
         shutil.rmtree(tmpdir)
         return ordered_results
-
 
 def collect_results_gpu(result_part, size):
     collect_results_cpu(result_part, size)
