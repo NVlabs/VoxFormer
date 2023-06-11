@@ -15,6 +15,7 @@
 
 
 ## News
+- [2023/06]: Welcome to our CVPR poster session WED-AM-082 on 21 June, and check our [online video](https://www.youtube.com/watch?v=L0M9ayR316g).
 - [2023/03]: 🔥 VoxFormer is accepted by [CVPR 2023](https://cvpr2023.thecvf.com/) as a highlight paper **(235/9155, 2.5% acceptance rate)**.
 - [2023/02]: Our paper is on [arxiv](https://arxiv.org/abs/2302.12251).
 - [2022/11]: VoxFormer achieve the SOTA on [SemanticKITTI 3D SSC (Semantic Scene Completion) Task](http://www.semantic-kitti.org/tasks.html#ssc) with **13.35% mIoU** and **44.15% IoU** (camera-only)!
