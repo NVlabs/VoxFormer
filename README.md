@@ -15,6 +15,7 @@
 
 
 ## News
+- [2023/06]: 🔥 We release [SSCBench](https://github.com/ai4ce/SSCBench), a large-scale semantic scene completion benchmark derived from KITTI-360, nuScenes, and Waymo. 
 - [2023/06]: Welcome to our CVPR poster session on 21 June (**WED-AM-082**), and check our [online video](https://www.youtube.com/watch?v=L0M9ayR316g).
 - [2023/03]: 🔥 VoxFormer is accepted by [CVPR 2023](https://cvpr2023.thecvf.com/) as a highlight paper **(235/9155, 2.5% acceptance rate)**.
 - [2023/02]: Our paper is on [arxiv](https://arxiv.org/abs/2302.12251).
