@@ -75,6 +75,10 @@ The pre-trained models are shared under [CC-BY-NC-SA-4.0](https://creativecommon
 
 For business inquiries, please visit our website and submit the form: [NVIDIA Research Licensing](https://www.nvidia.com/en-us/research/inquiries/).
 
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=NVlabs/VoxFormer&type=Date)](https://star-history.com/#NVlabs/VoxFormer)
+
 ## Acknowledgement
 
 Many thanks to these excellent open source projects:
