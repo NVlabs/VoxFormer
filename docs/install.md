@@ -59,7 +59,7 @@ cd VoxFormer && mkdir ckpts && cd ckpts
 ```
 Download the pretrained [resnet50](https://drive.google.com/file/d/1A4Efx7OQ2KVokM1XTbZ6Lf2Q5P-srsyE/view?usp=share_link).
 
-**i. build deformable 3D attention ops.**
+**i. Build deformable 3D attention ops.**
 ```shell
 cd VoxFormer/deform_attn_3d 
 python setup.py build_ext --inplace
