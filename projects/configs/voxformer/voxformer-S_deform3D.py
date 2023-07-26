@@ -7,7 +7,7 @@ plugin_dir = 'projects/mmdet3d_plugin/'
 
 _num_layers_cross_ = 3
 _num_points_cross_ = 8
-_num_layers_self_ = 3
+_num_layers_self_ = 2
 _num_points_self_ = 8
 _dim_ = 128
 _pos_dim_ = _dim_//2
