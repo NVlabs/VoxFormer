@@ -46,8 +46,8 @@ For stage-2, please download the trained models based on the following table.
 | :---: | :---: | :---: | :---: | :---:| :---: | :---: |
 | [R50](https://drive.google.com/file/d/1A4Efx7OQ2KVokM1XTbZ6Lf2Q5P-srsyE/view?usp=share_link) | VoxFormer-T | 20ep | 44.15| 13.35|[config](projects/configs/voxformer/voxformer-T.py) |[model](https://drive.google.com/file/d/1KOYN3MGHMyCTDZWw4lNNicCdImnKqvlz/view?usp=share_link) |
 | [R50](https://drive.google.com/file/d/1A4Efx7OQ2KVokM1XTbZ6Lf2Q5P-srsyE/view?usp=share_link) | VoxFormer-S | 20ep | 44.02| 12.35|[config](projects/configs/voxformer/voxformer-S.py) |[model](https://drive.google.com/file/d/1UBemF77Cfr0d9rcC_Y9Qmjnqp_c4qoeb/view?usp=share_link)|
-| [R50](https://drive.google.com/file/d/1A4Efx7OQ2KVokM1XTbZ6Lf2Q5P-srsyE/view?usp=share_link) | VoxFormer-T-3D | 20ep | 44.35| 13.69|[config](projects/configs/voxformer/voxformer-T-3D.py) |[model](https://drive.google.com/file/d/1JQwaO5XXMMkTcF95tCHk45q6PzZnofS6/view?usp=drive_link)|
-| [R50](https://drive.google.com/file/d/1A4Efx7OQ2KVokM1XTbZ6Lf2Q5P-srsyE/view?usp=share_link) | VoxFormer-S-3D | 20ep | 44.42| 12.86|[config](projects/configs/voxformer/voxformer-S-3D.py) |[model](https://drive.google.com/file/d/1kwcMGRl9FOprV2k5kqCS0kfvrbCfJMcZ/view?usp=drive_link)|
+| [R50](https://drive.google.com/file/d/1A4Efx7OQ2KVokM1XTbZ6Lf2Q5P-srsyE/view?usp=share_link) | VoxFormer-T-3D | 20ep | 44.35| 13.69|[config](projects/configs/voxformer/voxformer-T_deform3D.py) |[model](https://drive.google.com/file/d/1JQwaO5XXMMkTcF95tCHk45q6PzZnofS6/view?usp=drive_link)|
+| [R50](https://drive.google.com/file/d/1A4Efx7OQ2KVokM1XTbZ6Lf2Q5P-srsyE/view?usp=share_link) | VoxFormer-S-3D | 20ep | 44.42| 12.86|[config](projects/configs/voxformer/voxformer-S_deform3D.py) |[model](https://drive.google.com/file/d/1kwcMGRl9FOprV2k5kqCS0kfvrbCfJMcZ/view?usp=drive_link)|
 
  
 ## Dataset
