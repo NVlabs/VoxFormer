@@ -15,6 +15,7 @@
 
 
 ## News
+- [2023/07]: We release the code of voxformer with 3D deformable attention module, achieving slightly better performance. 
 - [2023/06]: 🔥 We release [SSCBench](https://github.com/ai4ce/SSCBench), a large-scale semantic scene completion benchmark derived from KITTI-360, nuScenes, and Waymo. 
 - [2023/06]: Welcome to our CVPR poster session on 21 June (**WED-AM-082**), and check our [online video](https://www.youtube.com/watch?v=L0M9ayR316g).
 - [2023/03]: 🔥 VoxFormer is accepted by [CVPR 2023](https://cvpr2023.thecvf.com/) as a highlight paper **(235/9155, 2.5% acceptance rate)**.
@@ -46,6 +47,8 @@ For stage-2, please download the trained models based on the following table.
 | :---: | :---: | :---: | :---: | :---:| :---: | :---: |
 | [R50](https://drive.google.com/file/d/1A4Efx7OQ2KVokM1XTbZ6Lf2Q5P-srsyE/view?usp=share_link) | VoxFormer-T | 20ep | 44.15| 13.35|[config](projects/configs/voxformer/voxformer-T.py) |[model](https://drive.google.com/file/d/1KOYN3MGHMyCTDZWw4lNNicCdImnKqvlz/view?usp=share_link) |
 | [R50](https://drive.google.com/file/d/1A4Efx7OQ2KVokM1XTbZ6Lf2Q5P-srsyE/view?usp=share_link) | VoxFormer-S | 20ep | 44.02| 12.35|[config](projects/configs/voxformer/voxformer-S.py) |[model](https://drive.google.com/file/d/1UBemF77Cfr0d9rcC_Y9Qmjnqp_c4qoeb/view?usp=share_link)|
+| [R50](https://drive.google.com/file/d/1A4Efx7OQ2KVokM1XTbZ6Lf2Q5P-srsyE/view?usp=share_link) | VoxFormer-T-3D | 20ep | 44.35| 13.69|[config](projects/configs/voxformer/voxformer-T_deform3D.py) |[model](https://drive.google.com/file/d/1JQwaO5XXMMkTcF95tCHk45q6PzZnofS6/view?usp=drive_link)|
+| [R50](https://drive.google.com/file/d/1A4Efx7OQ2KVokM1XTbZ6Lf2Q5P-srsyE/view?usp=share_link) | VoxFormer-S-3D | 20ep | 44.42| 12.86|[config](projects/configs/voxformer/voxformer-S_deform3D.py) |[model](https://drive.google.com/file/d/1kwcMGRl9FOprV2k5kqCS0kfvrbCfJMcZ/view?usp=drive_link)|
 
  
 ## Dataset
